@@ -4,32 +4,28 @@ Welcome to my GitHub! I’m an aspiring software engineer on a learning journey 
 
 ---
 
-## 🔭 What I’m working on
-- Building and refining my **portfolio website** to showcase my projects and growth  
-- Developing a **Pomodoro Task Tracker** app to boost productivity  
-- Learning **JavaScript**, **React**, **Node.js**, **Express**, and **MongoDB** through hands-on full-stack projects  
+## 🔭 What I’m Working On
+- Maintaining and refining my **[Portfolio Website](https://renea2024.github.io/swe-portfolio)** to showcase my projects and growth  
+- Building **[Interactive Quiz App](https://github.com/renea2024/interactive-quiz-app)** with score tracking and responsive UI (in progress)  
+- Developing **[Learning Journal](https://github.com/renea2024/learning-journal)** to document and reflect on my coding journey (in progress)  
+- Expanding my skills through hands-on projects  
 
 ---
 
-## 🚀 Featured Projects
-
+## 🚀 Completed Projects
 | Project | Description |
-| -------- | ----------- |
-| **Portfolio Website** | A responsive portfolio built with HTML, CSS, and JavaScript to showcase my skills and projects. |
-| **Pomodoro Task Tracker** | A productivity timer app focused on managing tasks and time effectively. |
-| **Learning Journal** | A project to document and reflect on my coding journey (coming soon). |
+|---------|-------------|
+| **[Portfolio Website](https://github.com/renea2024/swe-portfolio)** | A responsive portfolio built with HTML, CSS, and JavaScript to showcase my skills and projects. |
+| **[Pomodoro Task Tracker](https://github.com/renea2024/pomodoro-task-tracker)** | A productivity app with a Pomodoro timer and task management system. |
+| **[Recipe Manager](https://github.com/renea2024/recipe-manager)** | A web app for managing recipes with search, filtering, and clean UI. |
 
 ---
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 Feel free to check out my portfolio site for more info on my work and background:  
-[My Portfolio](https://renea2024.github.io/swe-portfolio/)
+**[My Portfolio](https://renea2024.github.io/swe-portfolio)**  
 
----
-
-Thanks for stopping by! Let’s connect and grow together. 🌱
-
----
+Thanks for stopping by! Let’s connect and grow together. 🌱  
 
 > “Go confidently in the direction of your dreams. Live the life you have imagined.”  
 > — Henry David Thoreau
