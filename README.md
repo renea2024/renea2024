@@ -22,8 +22,8 @@ Welcome to my GitHub! I’m an aspiring software engineer on a learning journey 
 ---
 
 ## 📫 How to Reach Me
-Feel free to check out my portfolio site for more info on my work and background:  
-**[My Portfolio](https://renea2024.github.io/swe-portfolio)**  
+Feel free to check out **[My Portfolio](https://renea2024.github.io/swe-portfolio)**  for more info on my work and background
+ 
 
 Thanks for stopping by! Let’s connect and grow together. 🌱  
 
