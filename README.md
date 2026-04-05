@@ -6,8 +6,8 @@ Welcome to my GitHub! I’m an aspiring software engineer on a learning journey 
 
 ## 🔭 What I’m Working On
 - Maintaining and refining my **[Portfolio Website](https://renea2024.github.io/swe-portfolio)** to showcase my projects and growth  
-- Building **[Interactive Quiz App](https://github.com/renea2024/interactive-quiz-app)** with score tracking and responsive UI (in progress)  
-- Developing **[Learning Journal](https://github.com/renea2024/learning-journal)** to document and reflect on my coding journey (in progress)  
+- Building an **[Interactive Quiz App](https://github.com/renea2024/interactive-quiz-app)** with score tracking and responsive UI (in progress)  
+- Developing a **[Learning Journal](https://github.com/renea2024/learning-journal)** to document and reflect on my coding journey (in progress)  
 - Expanding my skills through hands-on projects  
 
 ---
